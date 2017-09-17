@@ -24,6 +24,7 @@ Network Applied Communication Laboratory Ltd.
 
 * A text editor written in Ruby
 * A message user agent on the text editor
+* Law, Chaos, and Cosmic Balance
 
 ## Textbringer
 
