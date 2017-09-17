@@ -6,9 +6,17 @@ RubyKaigi  2017-09-18
 
 
 Shugo Maeda
+
 Network Applied Communication Laboratory Ltd.
 
 ## Self introduction
+
+* Shugo Maeda
+* Ruby committer
+* Director at Network Applied Communication Laboratory Ltd.
+* Secretal General at Ruby Association
+
+## From Ruby City MATSUE
 
 ![250DUKE](250duke.jpg)
 
