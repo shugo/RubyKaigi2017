@@ -14,7 +14,7 @@ Network Applied Communication Laboratory Ltd.
 * Shugo Maeda
 * Ruby committer
 * Director at Network Applied Communication Laboratory Ltd.
-* Secretal General at Ruby Association
+* Secretary General at Ruby Association
 
 ## From Ruby City MATSUE
 
