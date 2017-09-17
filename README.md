@@ -217,8 +217,8 @@ buffer.replace_match("Tochigi")
 
 ## Redisplay
 
-* No redisplay the whole screen
-* But it's bother to implement
+* No need to redisplay the whole screen
+* But it's bother to implement partial redisplay
 * So, use curses
 
 ## curses
