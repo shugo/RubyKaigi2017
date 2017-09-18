@@ -35,6 +35,7 @@ Network Applied Communication Laboratory Ltd.
 ## Features of Textbringer
 
 * Emacs like
+    * Framework to create your own text editor
 * Works on terminals
     * Doesn't work without terminals
 * Pure Ruby
